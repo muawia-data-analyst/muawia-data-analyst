@@ -6,14 +6,14 @@ I'm a self-taught data analyst who built skills from the ground up — learning 
 
 ---
 
-### 🛠️ Skills
+###  Skills
 - **Excel:** Pivot Tables, VLOOKUP/XLOOKUP, Data Cleaning, Conditional Formatting, Dashboard Design
 - **SQL:** Joins, CTEs, Window Functions, Subqueries, Data Cleaning, Exploratory Data Analysis (MySQL)
 - **Power BI:** Power Query, Data Modeling, DAX, Interactive Dashboards, Conditional Formatting
 
 ---
 
-### 📊 Featured Projects
+###  Featured Projects
 
 | Project | Tools Used | Description |
 |---|---|---|
