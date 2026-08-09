@@ -1,8 +1,8 @@
 # Hi, I'm Muawia Mahboob 👋
 
-**Aspiring Data Analyst** | Excel · SQL · Power BI
+**Data Analyst** | Excel · SQL · Power BI
 
-I'm a self-taught data analyst who built skills from the ground up — learning Excel, SQL, and Power BI through hands-on projects using real-world datasets. I focus on turning messy, raw data into clean, actionable insights through dashboards and analysis.
+I'm a Data Analyst, currently working remotely with Wotbix, with hands-on experience in Excel, SQL, and Power BI. Alongside my role, I've built 5 portfolio projects using real-world datasets to sharpen my skills further and demonstrate my end-to-end data analysis workflow — from raw data to final dashboard.
 
 ---
 
@@ -26,8 +26,9 @@ I'm a self-taught data analyst who built skills from the ground up — learning 
 ---
 
 ### 📫 Let's Connect
+- LinkedIn: [linkedin.com/in/muawia-mahboob](https://www.linkedin.com/in/muawia-mahboob)
 - Email: muawia351@gmail.com
 
 ---
 
-*Currently open to Data Analyst opportunities — entry-level and junior roles.*
+*Open to new Data Analyst opportunities.*
