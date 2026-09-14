@@ -23,8 +23,8 @@ I'm a Data Analyst with hands on experience across business, operations, and fin
 | [SQL Exploratory Data Analysis — Layoffs Dataset](https://github.com/muawia-data-analyst/SQL-EDA-Layoffs) | SQL (MySQL) | Advanced EDA using chained CTEs, window functions, and DENSE_RANK to analyze global layoff trends |
 | [SQL Data Cleaning — Layoffs Dataset](https://github.com/muawia-data-analyst/SQL-Data-Cleaning-Layoffs) | SQL (MySQL) | Cleaned a real-world dataset using window functions and self-joins to remove duplicates and fill missing values |
 | [Data Professional Survey Dashboard](https://github.com/muawia-data-analyst/PowerBI-Survey-Dashboard) | Power BI | Interactive dashboard analyzing survey data from 600+ data professionals worldwide |
-| [Superstore Sales Dashboard](https://github.com/muawia-data-analyst/Excel-Superstore-Sales-Dashboard) | Excel | KPI-driven retail sales dashboard with regional and category breakdown |
-| [Bike Sales Dashboard](https://github.com/muawia-data-analyst/Excel-Bike-Sales-Dashboard) | Excel | Customer demographic analysis with Pivot Tables and an interactive slicer-based dashboard |
+| [Superstore Sales Dashboard](https://github.com/muawia-data-analyst/Excel-Superstore-Sales-Dashboard) | Excel | KPI driven retail sales dashboard with regional and category breakdown |
+| [Bike Sales Dashboard](https://github.com/muawia-data-analyst/Excel-Bike-Sales-Dashboard) | Excel | Customer demographic analysis with Pivot Tables and an interactive slicer based dashboard |
 
 ---
 
