@@ -4,23 +4,23 @@
 
 I'm a Data Analyst with 2+ years of professional experience, most recently at Wotbix, turning business data into performance insights and practical analytical solutions across Business Intelligence, Business Analysis, Operations, Finance, Sales, and Reporting. My work combines Microsoft Excel, SQL/MySQL, Power BI, Tableau, Power Query, and DAX to transform raw data into reliable analysis, meaningful KPIs, structured reporting, and interactive BI solutions.
 
-I combine technical data skills with business analysis to build clean analytical datasets, develop KPI frameworks and performance views, investigate trends and variances, and translate business requirements into practical analytical solutions. My portfolio reflects this approach through hands-on work in operations and SLA analytics, financial performance analysis, sales and funnel analysis, marketing analytics and cost-efficiency modeling, Business Intelligence dashboards, executive reporting, SQL data analysis, and business reporting.
+I combine technical data skills with business analysis to build clean analytical datasets, develop KPI frameworks and performance views, investigate trends and variances, and translate business requirements into practical analytical solutions. My portfolio reflects this approach through hands-on work in operations and SLA analytics, financial performance analysis, sales and funnel analysis, marketing analytics, Business Intelligence dashboards, executive reporting, SQL data analysis, and business reporting.
 
 ---
 
-###   Skills
-- **Excel:** Pivot Tables, VLOOKUP/XLOOKUP, SUMIFS/SUMPRODUCT, Data Cleaning, Conditional Formatting, Dashboard Design
+### Skills
+- **Excel:** Advanced Formulas, Pivot Tables, VLOOKUP/XLOOKUP, SUMIFS/SUMPRODUCT, Data Cleaning, Conditional Formatting, Dashboard Design, Operational Trackers
 - **SQL:** Joins, CTEs, Window Functions, Subqueries, Data Cleaning, Exploratory Data Analysis (MySQL)
 - **Power BI:** Power Query, Data Modeling, DAX, Interactive Dashboards, Waterfall/Gauge/Treemap visuals, Conditional Formatting Matrices
-- **Tableau:** Calculated Fields, Weighted KPI Design, Dashboard Design, Hypothesis-Driven Analysis
+- **Tableau:** Data Modeling, Data Preparation, Calculated Fields, LOD Expressions, Parameters, Sets, Dashboard Actions, Interactive Dashboards, Geographic Analysis, Data Storytelling, Weighted KPI Design
 
 ---
 
-###   Featured Projects
+### Featured Projects
 
 | Project | Tools Used | Description |
 |---|---|---|
-| [Marketing Campaign Performance & Cost Efficiency Analysis](https://github.com/muawia-data-analyst/Marketing-Campaign-Performance-Cost-Efficiency) | Tableau | Analyzed 200,000 campaigns using spend and click weighted KPIs, then systematically tested 6 dimensions to determine what actually predicts ROI |
+| [Marketing Campaign Performance & Cost Efficiency Analysis](https://github.com/muawia-data-analyst/Marketing-Campaign-Performance-Cost-Efficiency) | Tableau | Analyzed 200,000 campaigns with spend and click weighted KPIs, an interactive metric switcher parameter, and a cost vs. ROI analysis across 6 dimensions |
 | [Finance & Executive Performance Reporting](https://github.com/muawia-data-analyst/Finance-Executive-Performance-Reporting-Project) | Excel, Power BI | Budget vs. actual variance analysis across departments, regions, and business units, with executive-level Waterfall, Gauge, and Treemap visualizations |
 | [Customer Support Operations & SLA Compliance](https://github.com/muawia-data-analyst/Customer-Support-Operations-SLA-Compliance-Analytics) | Excel, Power BI | SLA compliance, escalation, and process efficiency analysis, includes a resolved Excel to Power BI DAX discrepancy on blank value handling |
 | [Sales & Lead Generation Performance KPI Analysis](https://github.com/muawia-data-analyst/Sales-LeadGen-Performance-KPI-Analysis-Project) | Excel, Power BI | Full lead generation KPI framework (Contact Rate, Qualification Rate, Conversion Rate) with team and agent drill downs |
@@ -32,7 +32,7 @@ I combine technical data skills with business analysis to build clean analytical
 
 ---
 
-###   Let's Connect
+### Let's Connect
 - LinkedIn: [linkedin.com/in/muawia-mahboob](https://www.linkedin.com/in/muawia-mahboob)
 - Email: muawia351@gmail.com
 
