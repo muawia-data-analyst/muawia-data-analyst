@@ -2,7 +2,7 @@
 
 **Data Analyst** | Excel · SQL · Power BI · Tableau
 
-I'm a Data Analyst with 2+ years of professional experience, most recently at Wotbix, turning business data into performance insights and practical analytical solutions across Business Intelligence, Business Analysis, Operations, Finance, Sales, and Reporting. My work combines Microsoft Excel, SQL/MySQL, Power BI, Tableau, Power Query, and DAX to transform raw data into reliable analysis, meaningful KPIs, structured reporting, and interactive BI solutions.
+I'm a Data Analyst with 2+ years of professional experience, most recently at Wotbix, turning business data into performance insights and practical analytical solutions across Business Intelligence, Business Analysis, Operations, Finance, Sales, Marketing, and Reporting. My work combines Microsoft Excel, SQL/MySQL, Power BI, Tableau, Power Query, and DAX to transform raw data into reliable analysis, meaningful KPIs, structured reporting, and interactive BI solutions.
 
 I combine technical data skills with business analysis to build clean analytical datasets, develop KPI frameworks and performance views, investigate trends and variances, and translate business requirements into practical analytical solutions. My portfolio reflects this approach through hands-on work in operations and SLA analytics, financial performance analysis, sales and funnel analysis, marketing analytics, Business Intelligence dashboards, executive reporting, SQL data analysis, and business reporting.
 
